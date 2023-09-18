@@ -1,0 +1,18 @@
+ 
+Nome: cara
+CPF: 05394814082
+Bairro: bss
+Endereco: sdasd
+Data de nascimento:20/05/2001
+Data da ultima compra: 20/09/2020
+Valor acumulado: 900.000000
+------------------
+ 
+Nome: bao
+CPF: 57018262011
+Bairro: ali
+Endereco: aqui
+Data de nascimento:12/03/2000
+Data da ultima compra: 20/09/2010
+Valor acumulado: 960.000000
+------------------
